@@ -11,6 +11,10 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Ignore everything inside ffmpeg folder
+ffmpeg/** 
+*.exe
+
 # Package Files #
 *.jar
 *.war
